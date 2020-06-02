@@ -1,0 +1,20 @@
+D:\Pankaj\Training\Dotnet Fundamental\Assignments\logParser\logParser\bin\Debug\netcoreapp2.2\logParser.deps.json
+D:\Pankaj\Training\Dotnet Fundamental\Assignments\logParser\logParser\bin\Debug\netcoreapp2.2\logParser.runtimeconfig.json
+D:\Pankaj\Training\Dotnet Fundamental\Assignments\logParser\logParser\bin\Debug\netcoreapp2.2\logParser.runtimeconfig.dev.json
+D:\Pankaj\Training\Dotnet Fundamental\Assignments\logParser\logParser\bin\Debug\netcoreapp2.2\logParser.dll
+D:\Pankaj\Training\Dotnet Fundamental\Assignments\logParser\logParser\bin\Debug\netcoreapp2.2\logParser.pdb
+D:\Pankaj\Training\Dotnet Fundamental\Assignments\logParser\logParser\obj\Debug\netcoreapp2.2\logParser.AssemblyInfoInputs.cache
+D:\Pankaj\Training\Dotnet Fundamental\Assignments\logParser\logParser\obj\Debug\netcoreapp2.2\logParser.AssemblyInfo.cs
+D:\Pankaj\Training\Dotnet Fundamental\Assignments\logParser\logParser\obj\Debug\netcoreapp2.2\logParser.dll
+D:\Pankaj\Training\Dotnet Fundamental\Assignments\logParser\logParser\obj\Debug\netcoreapp2.2\logParser.pdb
+D:\Pankaj\Training\Dotnet Fundamental\Assignments\logParser\logParser\obj\Debug\netcoreapp2.2\logParser.csprojAssemblyReference.cache
+D:\Pankaj\Training\GIT\LogParser\logParser\bin\Debug\netcoreapp2.2\logParser.deps.json
+D:\Pankaj\Training\GIT\LogParser\logParser\bin\Debug\netcoreapp2.2\logParser.runtimeconfig.json
+D:\Pankaj\Training\GIT\LogParser\logParser\bin\Debug\netcoreapp2.2\logParser.runtimeconfig.dev.json
+D:\Pankaj\Training\GIT\LogParser\logParser\bin\Debug\netcoreapp2.2\logParser.dll
+D:\Pankaj\Training\GIT\LogParser\logParser\bin\Debug\netcoreapp2.2\logParser.pdb
+D:\Pankaj\Training\GIT\LogParser\logParser\obj\Debug\netcoreapp2.2\logParser.csprojAssemblyReference.cache
+D:\Pankaj\Training\GIT\LogParser\logParser\obj\Debug\netcoreapp2.2\logParser.AssemblyInfoInputs.cache
+D:\Pankaj\Training\GIT\LogParser\logParser\obj\Debug\netcoreapp2.2\logParser.AssemblyInfo.cs
+D:\Pankaj\Training\GIT\LogParser\logParser\obj\Debug\netcoreapp2.2\logParser.dll
+D:\Pankaj\Training\GIT\LogParser\logParser\obj\Debug\netcoreapp2.2\logParser.pdb
